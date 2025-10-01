@@ -24,7 +24,6 @@
 ## 🚀 Projects
 - **Presense** 🏆 — Hackathon‑winning project at SpurHacks 2025, focused on presence‑driven collaboration tools  
 - **[dlicio.com](https://dlicio.com)** 🍴 — Startup platform for seamless, fee‑free food ordering  
-- **[Other GitHub Projects]** — Add links to repos you want recruiters to see (ML models, backend systems, data pipelines)
 
 ---
 
@@ -38,7 +37,7 @@
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/)  
 - [Email](mailto:your.email@example.com)  
-- [Portfolio/Website](https://yourwebsite.com)  
+- [Portfolio/Website](https://mikhaiwilson.ca)  
 
 ---
 
