@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Highlights fron my last role
+## 📈 Highlights from my last role
 - Designed and optimized data pipelines at Bruce Power to support large‑scale analytics  
 - Built ML models and backend services that improved efficiency and decision‑making  
 - Experienced in leading projects from idea → prototype → production  
