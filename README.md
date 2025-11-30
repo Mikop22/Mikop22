@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Mikhai Wilson]
+# Hi there 👋🏾 I'm [Mikhai Wilson]
 
 > “I love all things Software, Psychology, Biology, Math, and Food Related.”
 
