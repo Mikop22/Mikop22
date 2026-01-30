@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - Engineer with an interest in **Machine Learning** and **Making Pretty User Interfaces/Experiences**  
-- Currently working as a **Data Engineer at Bruce Power** in Tiverton, Ontario  
+- Previously worked as a **Data Engineer at Bruce Power** in Tiverton, Ontario  
 - Passionate about building scalable systems, data pipelines, and intelligent applications  
 - Startup founder: launched **[dlicio.com](https://dlicio.com)**, a food‑tech platform reimagining smarter, fee‑free ordering  
 - 🏆 Co‑creator of **Presense**, winner at **SpurHacks 2025**
