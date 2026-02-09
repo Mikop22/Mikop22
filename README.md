@@ -4,14 +4,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## A bit about me
 - I'm interested in **Machine Learning** and **Making Pretty User Interfaces/Experiences**  
 - Previously worked as a **Data Engineer at Bruce Power** in Tiverton, Ontario  
 - Passionate about building scalable systems, data pipelines, and intelligent applications
 
 ---
 
-## 🌐 Connect With Me
+## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mikhai-wilson-7a2669249/)  
 - mikhaischolar@gmail.com
 - [Portfolio/Website](https://mikhaiwilson.ca)  
