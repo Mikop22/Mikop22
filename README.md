@@ -1,6 +1,6 @@
-# Hi there 👋🏾 I'm [Mikhai Wilson]
+# Hi there 👋🏾,  I'm [Mikhai Wilson]
 
-> “I love all things Software, Psychology, Math, and Food Related.”
+> I love all things Software, Psychology, Math, and Food Related.
 
 ---
 
