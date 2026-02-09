@@ -1,6 +1,6 @@
 # Hi there 👋🏾 I'm [Mikhai Wilson]
 
-> “I love all things Software, Psychology, Biology, Math, and Food Related.”
+> “I love all things Software, Psychology, Math, and Food Related.”
 
 ---
 
@@ -19,12 +19,6 @@
 - **Data & Cloud:** Spark, Airflow, Kafka, AWS, Azure, Docker, Kubernetes  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 
----
-
-## 📈 Highlights from my last role
-- Designed and optimized data pipelines at Bruce Power to support large‑scale analytics  
-- Built backend tools that improved efficiency and decision‑making using data
-- Leading projects from idea → prototype → production  
 ---
 
 ## 🌐 Connect With Me
