@@ -1,7 +1,5 @@
 # Hi there 👋🏾,  I'm [Mikhai Wilson]
 
-> I love all things Software, Psychology, Math, and Food Related.
-
 ---
 
 ## A bit about me
