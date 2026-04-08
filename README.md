@@ -12,6 +12,6 @@
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mikhai-wilson-7a2669249/)  
 - mikhaischolar@gmail.com
-- [Portfolio/Website](https://mikhaiwilson.ca)  
+- [Website](https://mikhaiwilson.ca)  
 
 ---
