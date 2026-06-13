@@ -1,8 +1,4 @@
-# Hi there 👋🏾,  I'm [Mikhai Wilson]
+## Hi there 👋🏾,  welcome to my github!
 
----
+- I'm interested in **machine Learning**, **automating mundane tasks** and **making pretty user interfaces**  
 
-## A bit about me
-- I'm interested in **Machine Learning** and **Making Pretty User Interfaces/Experiences**  
-- Previously worked at Bruce Power, the biggest nuclear plant in North America**
-- Passionate about building scalable systems, data pipelines, and intelligent applications
